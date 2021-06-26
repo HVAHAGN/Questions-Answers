@@ -22,6 +22,7 @@ namespace Questions_03
                 Console.WriteLine(false);
             }
 
+
             Console.ReadLine();
         }
         /*One might think that, since a DateTime variable can never be null (it is automatically initialized to Jan 1, 0001), the compiler 
